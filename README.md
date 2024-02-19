@@ -14,5 +14,6 @@ The names "NFT Artefact" and its abbreviation "NFTA," along with the associated 
 This strategic move ensures that the DAO retains control and ownership over its branding elements within the NFT ecosystem, safeguarding its identity and intellectual property rights. 
 By minting these assets as NFTs, the DAO establishes a clear record of ownership on the blockchain, reinforcing its authority and commitment to maintaining the integrity of its brand in the ever-evolving digital landscape.
 
-Oficial Web: nftartefact.org
+Oficial Web: NFTArtefact.org
+
 github.com/NFTArtifakt/
