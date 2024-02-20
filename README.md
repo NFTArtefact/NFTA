@@ -17,3 +17,5 @@ By minting these assets as NFTs, the DAO establishes a clear record of ownership
 Oficial Web: NFTArtefact.org
 
 github.com/NFTArtifakt/
+
+getgems.io/nfta
